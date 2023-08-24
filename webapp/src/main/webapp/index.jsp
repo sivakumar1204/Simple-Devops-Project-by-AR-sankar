@@ -1,6 +1,8 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning</h1>
+    <h1>Deploying on K8S using ansible for pratice </h1>
+    <h2> Hello Welcome To the Simple DevOps Project !! </h2>
+    <h3> New user Register for DevOps Learning </h3>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
