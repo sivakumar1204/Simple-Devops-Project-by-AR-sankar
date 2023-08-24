@@ -1,11 +1,16 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Deploying on K8S using ansible for pratice </h1>
+    <h2> Hello Welcome To the Simple DevOps Project !! </h2>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <br>
+
+    <label for="City"><b>Enter City</b></label>
+    <input type="text" placeholder="Enter the city name" name="Name" id="Name" required>
     <br>
     
     <label for="mobile"><b>Enter mobile</b></label>
