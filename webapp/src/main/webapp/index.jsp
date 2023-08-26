@@ -14,6 +14,10 @@
     <label for="City"><b>Enter City</b></label>
     <input type="text" placeholder="Enter the city name" name="Name" id="Name" required>
     <br>
+
+    <label for="Country"><b>Enter Country</b></label>
+    <input type="text" placeholder="Enter the country name" name="Name" id="Name" required>
+    <br>
     
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
